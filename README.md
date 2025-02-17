@@ -20,7 +20,7 @@ To run the Chess game locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Levi-Team/chess-game.git
+   gh repo clone Levi-Jazim/Chess-Game
    ```
 2. Navigate to the project directory:
    ```bash
